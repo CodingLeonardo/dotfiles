@@ -1,0 +1,12 @@
+fonts:
+  UbuntuMono: Ubuntu Mono derivative Powerline
+  Inconsolata: Inconsolata
+  # AnonymousPro:
+  #   normal: Anonymous Pro
+  #   bold: Anonymous Pro Bold
+  #   italic: Anonymous Pro
+  AnonymousPro: Anonymous Pro
+  FiraMono: Fira Mono for Powerline
+  DroidSansMono: Droid Sans Mono for Powerline
+  SourceCodePro: Source Code Pro
+  Hack: Hack
