@@ -1,12 +1,10 @@
 fonts:
-  UbuntuMono: Ubuntu Mono derivative Powerline
-  Inconsolata: Inconsolata
+  UbuntuMono: UbuntuMono Nerd Font
+  Inconsolata: Inconsolata Nerd Font
   # AnonymousPro:
   #   normal: Anonymous Pro
   #   bold: Anonymous Pro Bold
   #   italic: Anonymous Pro
-  AnonymousPro: Anonymous Pro
-  FiraMono: Fira Mono for Powerline
-  DroidSansMono: Droid Sans Mono for Powerline
-  SourceCodePro: Source Code Pro
-  Hack: Hack
+  AnonymousPro: Anonymice Nerd Font
+  FiraCode: FiraCode Nerd Font
+  Hack: Hack Nerd Font
