@@ -21,6 +21,9 @@ call plug#begin(stdpath('data').'/plugged')
 
     " NERDCommenter
     Plug 'preservim/nerdcommenter'
+    
+    " Emmmet
+    Plug 'mattn/emmet-vim'
 
     " One Theme
     Plug 'rakr/vim-one'
