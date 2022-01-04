@@ -1,4 +1,3 @@
-syntax enable
 
 " set guicursor=                                    " Disable blinking for the n-v-c modes
 
@@ -13,12 +12,13 @@ set path+=**
 set nowrap
 set encoding=UTF-8
 
-set number " relativenumber
+set number relativenumber
 
 set smartindent
 set smarttab
 set tabstop=2 softtabstop=2
 set shiftwidth=2
+syntax enable
 set expandtab
 set smartcase
 set incsearch

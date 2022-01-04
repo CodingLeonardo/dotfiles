@@ -1,5 +1,9 @@
-" Save file
+" Save File
 nnoremap <C-w> :w <CR>
+
+" CTRL-Z undo
+nnoremap <C-z> :undo <CR>
+
 " Toggle NERDTree
 nnoremap <C-n> :NERDTreeToggle <CR>
 " nnoremap <C-u>o :so <CR>
@@ -15,3 +19,6 @@ imap <C-v> <esc>P
 imap <C-e> <esc>$i<right>
 " map CTRL-A to beginning-of-line (insert mode)
 imap <C-a> <esc>0i
+
+noremap <C-up> :call feedkeys( line('.')==1 ? '' : 'ddkP' )<CR> 
+noremap <C-down> ddp
